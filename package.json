@@ -1,0 +1,10 @@
+{
+  "name": "simple_rest_api",
+  "version": "1.0.0",
+  "description": "Simple rest api demo",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "body-parser": "^1.18.3"
+  }
+}
